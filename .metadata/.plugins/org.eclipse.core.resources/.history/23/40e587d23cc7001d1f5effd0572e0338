@@ -1,0 +1,13 @@
+package com.saikiran.blog.services.impl;
+
+import com.saikiran.blog.services.SportService;
+
+public class SportServiceImpl implements SportService {
+
+	@Override
+	public void createSport(String name) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

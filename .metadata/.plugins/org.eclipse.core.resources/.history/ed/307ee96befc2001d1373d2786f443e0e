@@ -1,0 +1,5 @@
+package com.saikiran.blog.services;
+
+public interface FileService {
+
+}
