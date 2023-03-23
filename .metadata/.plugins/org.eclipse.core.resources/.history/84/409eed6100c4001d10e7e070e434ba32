@@ -1,5 +1,0 @@
-package com.saikiran.blog.security;
-
-public class CustomUserDetailService {
-
-}

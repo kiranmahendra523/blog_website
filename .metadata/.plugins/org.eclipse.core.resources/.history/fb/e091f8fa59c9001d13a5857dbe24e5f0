@@ -1,0 +1,40 @@
+package com.saikiran.blog.services.impl;
+
+import java.util.List;
+
+import com.saikiran.blog.payloads.GroundDto;
+import com.saikiran.blog.services.GroundService;
+
+public class GroundServiceImpl implements GroundService {
+
+	@Override
+	public GroundDto createGround(GroundDto groundDto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteGround(Integer groundId) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public GroundDto updateGround(GroundDto groundDto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public GroundDto getSingleGround(Integer groundId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<GroundDto> getAllGrounds() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
